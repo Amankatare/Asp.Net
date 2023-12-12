@@ -1,0 +1,26 @@
+ [
+        {
+            "Id": 1,
+            "Name": "John Doe",
+            "Phone": "123-456-7890",
+            "Email": "john.doe@example.com",
+            "Salary": 50000.00,
+            "DepartmentId": 1
+        },
+        {
+            "Id": 2,
+            "Name": "Jane Smith",
+            "Phone": "987-654-3210",
+            "Email": "jane.smith@example.com",
+            "Salary": 60000.00,
+            "DepartmentId": 2
+        },
+        {
+            "Id": 3,
+            "Name": "Bob Johnson",
+            "Phone": "555-123-4567",
+            "Email": "bob.johnson@example.com",
+            "Salary": 75000.00,
+            "DepartmentId": 1
+        }
+]
