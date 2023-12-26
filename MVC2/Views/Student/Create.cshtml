@@ -1,0 +1,44 @@
+﻿@model Student
+
+<form method="post">
+    <div class="form-group">
+        <label >Name</label>
+        <input asp-for="Name" name="Name" class="form-control" id="Name" aria-describedby="Name" placeholder="Enter Name">
+        <small id="NameHelp" class="form-text text-muted">We'll never share your Name with anyone else.</small>
+    </div>
+    <div class="form-group">
+        <label >Email address</label>
+        <input asp-for="Email" name="Email" class="form-control" id="Email" aria-describedby="Email" placeholder="Enter Email">
+        <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
+    </div>
+    <div class="form-group">
+        <label>Phone Number</label>
+        <input asp-for="PhoneNumber" name="PhoneNumber" class="form-control" id="PhoneNumber1" placeholder="Phone Number">
+    </div>
+    <div>
+        
+        <button type="submit" asp-controller="Student" asp-action="Create" class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Create</button>
+        <button asp-controller="Student" asp-action="Index" class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Back To Student Information</button>
+    </div>
+        @*
+            this is how we link the the pages according to their action methods 
+        *@
+    <div class="modal" tabindex="-1">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <h5 class="modal-title">Modal title</h5>
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                </div>
+                <div class="modal-body">
+                    <p>Modal body text goes here.</p>
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+                    <!--  <button type="button" class="btn btn-primary">Save changes</button>-->
+                </div>
+            </div>
+        </div>
+    </div>
+       
+</form>
