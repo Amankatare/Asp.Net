@@ -1,0 +1,39 @@
+[
+  {
+    "RollNo": 1,
+    "Name": "John Doe",
+    "Email": "john@example.com",
+    "PhoneNumber": "123-456-7890"
+  },
+  {
+    "RollNo": 2,
+    "Name": "Jane Doe",
+    "Email": "jane@example.com",
+    "PhoneNumber": "987-654-3210"
+  },
+  {
+    "RollNo": 3,
+    "Name": "Jane Doe",
+    "Email": "jane@example.com",
+    "PhoneNumber": "987-654-3210"
+  },
+  {
+    "RollNo": 4,
+    "Name": "Alice Smith",
+    "Email": "alice@example.com",
+    "PhoneNumber": "555-123-4567"
+  },
+  {
+    "RollNo": 5,
+    "Name": "Bob Johnson",
+    "Email": "bob@example.com",
+    "PhoneNumber": "888-555-1234"
+  },
+  {
+    "RollNo": 6,
+    "Name": "Eva Martinez",
+    "Email": "eva@example.com",
+    "PhoneNumber": "777-888-9999"
+  }
+]
+
