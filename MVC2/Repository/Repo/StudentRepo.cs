@@ -9,6 +9,8 @@ namespace MVC2.Repository.Repo
     public class StudentRepo : IStudent
     {
         public readonly DataContext _db;
+        private Student student1;
+
         public StudentRepo(DataContext db)
         {
             _db = db;
@@ -55,11 +57,31 @@ namespace MVC2.Repository.Repo
         {
             Student entry = _db.Students.Find(id);
             _db.Students.Remove(entry);
-           await _db.SaveChangesAsync();
+            await _db.SaveChangesAsync();
             return entry;
         }
 
-       
+        [HttpGet("{RollNo}")]
+        object IStudent.FindStudent(int rollNo)
+        {
+            var student = _db.Students.Find(rollNo);
+            if (student != null)
+            {
+                student1 = student;
+            }
+            return student1;
+        }
+
+        [HttpPut]
+        public async Task<Student> UpdateStudents(Student s)
+        {
+          
+            _db.Students.Update(s);
+            await _db.SaveChangesAsync();
+            return s ;
+
+        }
+
     }
 }
 

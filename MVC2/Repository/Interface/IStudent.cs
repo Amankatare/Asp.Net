@@ -8,5 +8,8 @@ namespace MVC2.Repository.Interface
         Task<List<Student>> GetStudent();
 
         Task<Student> deleteStudent(int? id);
+
+        Task<Student> UpdateStudents(Student s);
+        object FindStudent(int rollNo);
     }
 }
