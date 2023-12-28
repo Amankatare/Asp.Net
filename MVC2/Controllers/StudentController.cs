@@ -32,9 +32,26 @@ namespace MVC2.Controllers
         {
             _ist.deleteStudent(id);
 
-            return Redirect(Index);
+            return View();
         }
 
+        public IActionResult RedirectPage()
+        {
+            return View("Index");
+        }
+
+        public IActionResult Edit(int id)
+        {
+            Student student = (Student)_ist.FindStudent(id);
+            
+            return View(student);
+        }
+
+        public IActionResult Update(Student s)
+        {
+            _ist.UpdateStudents(s);
+            return RedirectToAction("Index");
+        }
 
     }
 }

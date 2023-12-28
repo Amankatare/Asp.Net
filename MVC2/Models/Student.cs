@@ -6,7 +6,7 @@ namespace MVC2.Models
     public class Student
     {
         [Key]
-        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
+        [Column("RollNo")]
         public int RollNo { get; set; }
 
         public string Name { get; set; }
