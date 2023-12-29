@@ -1,39 +1,42 @@
 [
   {
     "RollNo": 1,
-    "Name": "John Doe",
-    "Email": "john@example.com",
-    "PhoneNumber": "123-456-7890"
+    "Name": "John Smith",
+    "Email": "john.smith@example.com",
+    "PhoneNumber": "1234567890",
+    "Password": "Pass123!",
+    "PasswordConfirmation": "Pass123!"
   },
   {
     "RollNo": 2,
-    "Name": "Jane Doe",
-    "Email": "jane@example.com",
-    "PhoneNumber": "987-654-3210"
+    "Name": "Alice Johnson",
+    "Email": "alice.johnson@example.com",
+    "PhoneNumber": "9876543210",
+    "Password": "SecurePwd456",
+    "PasswordConfirmation": "SecurePwd456"
   },
   {
     "RollNo": 3,
-    "Name": "Jane Doe",
-    "Email": "jane@example.com",
-    "PhoneNumber": "987-654-3210"
+    "Name": "Bob Miller",
+    "Email": "bob.miller@example.com",
+    "PhoneNumber": "5551112233",
+    "Password": "MySecretPwd789",
+    "PasswordConfirmation": "MySecretPwd789"
   },
   {
     "RollNo": 4,
-    "Name": "Alice Smith",
-    "Email": "alice@example.com",
-    "PhoneNumber": "555-123-4567"
+    "Name": "Emily Davis",
+    "Email": "emily.davis@example.com",
+    "PhoneNumber": "7778889999",
+    "Password": "StrongPwd123",
+    "PasswordConfirmation": "StrongPwd123"
   },
   {
     "RollNo": 5,
-    "Name": "Bob Johnson",
-    "Email": "bob@example.com",
-    "PhoneNumber": "888-555-1234"
-  },
-  {
-    "RollNo": 6,
-    "Name": "Eva Martinez",
-    "Email": "eva@example.com",
-    "PhoneNumber": "777-888-9999"
+    "Name": "Michael Lee",
+    "Email": "michael.lee@example.com",
+    "PhoneNumber": "1112223333",
+    "Password": "Pwd12345!",
+    "PasswordConfirmation": "Pwd12345!"
   }
 ]
-

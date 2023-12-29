@@ -5,12 +5,20 @@
       "PackagePath": "staticwebassets\\MVC2.bundle.scp.css"
     },
     {
+      "Id": "F:\\.net ASP WEBAPI\\MVC2\\MVC2\\wwwroot\\css\\PageLoader.css",
+      "PackagePath": "staticwebassets\\css\\PageLoader.css"
+    },
+    {
       "Id": "F:\\.net ASP WEBAPI\\MVC2\\MVC2\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "F:\\.net ASP WEBAPI\\MVC2\\MVC2\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "F:\\.net ASP WEBAPI\\MVC2\\MVC2\\wwwroot\\js\\PageLoader.js",
+      "PackagePath": "staticwebassets\\js\\PageLoader.js"
     },
     {
       "Id": "F:\\.net ASP WEBAPI\\MVC2\\MVC2\\wwwroot\\js\\site.js",

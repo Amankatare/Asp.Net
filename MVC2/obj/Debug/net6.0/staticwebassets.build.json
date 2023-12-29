@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "L0xz8vbDfKug4hNIWbgwaww2oc7GeD6ulyO/eIfloOk=",
+  "Hash": "M+WQ98EoRtPYsiJX2ptPW5NbAHJ81kVc7lg8A6f5iVc=",
   "Source": "MVC2",
   "BasePath": "_content/MVC2",
   "Mode": "Default",
@@ -55,6 +55,25 @@
       "OriginalItemSpec": "F:\\.net ASP WEBAPI\\MVC2\\MVC2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MVC2.bundle.scp.css"
     },
     {
+      "Identity": "F:\\.net ASP WEBAPI\\MVC2\\MVC2\\wwwroot\\css\\PageLoader.css",
+      "SourceId": "MVC2",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\.net ASP WEBAPI\\MVC2\\MVC2\\wwwroot\\",
+      "BasePath": "_content/MVC2",
+      "RelativePath": "css/PageLoader.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\PageLoader.css"
+    },
+    {
       "Identity": "F:\\.net ASP WEBAPI\\MVC2\\MVC2\\wwwroot\\css\\site.css",
       "SourceId": "MVC2",
       "SourceType": "Discovered",
@@ -91,6 +110,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "F:\\.net ASP WEBAPI\\MVC2\\MVC2\\wwwroot\\js\\PageLoader.js",
+      "SourceId": "MVC2",
+      "SourceType": "Discovered",
+      "ContentRoot": "F:\\.net ASP WEBAPI\\MVC2\\MVC2\\wwwroot\\",
+      "BasePath": "_content/MVC2",
+      "RelativePath": "js/PageLoader.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\PageLoader.js"
     },
     {
       "Identity": "F:\\.net ASP WEBAPI\\MVC2\\MVC2\\wwwroot\\js\\site.js",
