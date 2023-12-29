@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.AspNetCore.Mvc.ModelBinding;
 using MVC2.Models;
 using MVC2.Repository.Interface;
 
@@ -21,9 +22,9 @@ namespace MVC2.Controllers
         }
 
         
-        public IActionResult Create(Student s)
+        public IActionResult Create(Student s, ModelStateDictionary ModelState)
         {
-           _ist.CreateStudent(s);
+           _ist.CreateStudent(s,ModelState);
 
             return View();
         }
@@ -47,9 +48,9 @@ namespace MVC2.Controllers
             return View(student);
         }
 
-        public IActionResult Update(Student s)
+        public IActionResult Update(Student s, ModelStateDictionary ModelState)
         {
-            _ist.UpdateStudents(s);
+            _ist.UpdateStudents(s,ModelState);
             return RedirectToAction("Index");
         }
 

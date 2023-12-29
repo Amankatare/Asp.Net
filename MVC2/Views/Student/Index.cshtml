@@ -25,7 +25,7 @@
                 <div class="row">
                     <div class="col-12 text-right mt-3">
                         <a asp-controller="Student" asp-action="Create" class="btn btn-dark">
-                            <i class="fa-solid fa-calendar-plus  btn-dark "></i>
+                            <i class="fa-solid fa-calendar-plus  btn-dark ">Create Student</i>
                         </a>
                     </div>
                 </div>
@@ -53,6 +53,8 @@
                         <td>@obj.Name </td>
                         <td>@obj.Email </td>
                         <td>@obj.PhoneNumber </td>
+                            <td hidden>@obj.Password </td>
+                            <td hidden>@obj.PasswordConfirmation</td>
                         <td>
                                 <a asp-controller="Student" asp-action="Delete" asp-route-id="@obj.RollNo" class="btn btn-dark mx-1">
                                     <i class="fa-solid fa-trash btn-outline-light" id="showAnotherPageBtn"> </i>

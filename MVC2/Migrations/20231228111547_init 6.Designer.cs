@@ -3,6 +3,7 @@ using MVC2.Data;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 #nullable disable
@@ -10,9 +11,10 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace MVC2.Migrations
 {
     [DbContext(typeof(DataContext))]
-    partial class DataContextModelSnapshot : ModelSnapshot
+    [Migration("20231228111547_init 6")]
+    partial class init6
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -44,10 +46,6 @@ namespace MVC2.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("PasswordConfirmation")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<string>("PhoneNumber")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
@@ -63,7 +61,6 @@ namespace MVC2.Migrations
                             Email = "john.smith@example.com",
                             Name = "John Smith",
                             Password = "Pass123!",
-                            PasswordConfirmation = "Pass123!",
                             PhoneNumber = "1234567890"
                         },
                         new
@@ -72,7 +69,6 @@ namespace MVC2.Migrations
                             Email = "alice.johnson@example.com",
                             Name = "Alice Johnson",
                             Password = "SecurePwd456",
-                            PasswordConfirmation = "SecurePwd456",
                             PhoneNumber = "9876543210"
                         },
                         new
@@ -81,7 +77,6 @@ namespace MVC2.Migrations
                             Email = "bob.miller@example.com",
                             Name = "Bob Miller",
                             Password = "MySecretPwd789",
-                            PasswordConfirmation = "MySecretPwd789",
                             PhoneNumber = "5551112233"
                         },
                         new
@@ -90,7 +85,6 @@ namespace MVC2.Migrations
                             Email = "emily.davis@example.com",
                             Name = "Emily Davis",
                             Password = "StrongPwd123",
-                            PasswordConfirmation = "StrongPwd123",
                             PhoneNumber = "7778889999"
                         },
                         new
@@ -99,7 +93,6 @@ namespace MVC2.Migrations
                             Email = "michael.lee@example.com",
                             Name = "Michael Lee",
                             Password = "Pwd12345!",
-                            PasswordConfirmation = "Pwd12345!",
                             PhoneNumber = "1112223333"
                         });
                 });

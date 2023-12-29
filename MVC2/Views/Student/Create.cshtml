@@ -5,19 +5,32 @@
         <label >Name</label>
         <input asp-for="Name" name="Name" class="form-control" id="Name" aria-describedby="Name" placeholder="Enter Name">
         <small id="NameHelp" class="form-text text-muted">We'll never share your Name with anyone else.</small>
+        <span asp-validation-for="Name" class="text-danger"></span>
     </div>
     <div class="form-group">
         <label >Email address</label>
         <input asp-for="Email" name="Email" class="form-control" id="Email" aria-describedby="Email" placeholder="Enter Email">
+        <span asp-validation-for="Email" class="text-danger"></span>
         <small id="emailHelp" class="form-text text-muted">We'll never share your email with anyone else.</small>
     </div>
     <div class="form-group">
-        <label>Phone Number</label>
+        <label asp-for="PhoneNumber" >Phone Number</label>
         <input asp-for="PhoneNumber" name="PhoneNumber" class="form-control" id="PhoneNumber1" placeholder="Phone Number">
+        <span asp-validation-for="PhoneNumber" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="Password">Password</label>
+        <input asp-for="Password" name="Password" class="form-control" id="Password" placeholder="Password">
+        <span asp-validation-for="Password" class="text-danger"></span>
+    </div>
+    <div class="form-group">
+        <label asp-for="PasswordConfirmation">PasswordConfirmation</label>
+        <input asp-for="PasswordConfirmation" name="PasswordConfirmation" class="form-control" id="PasswordConfirmation" placeholder="PasswordConfirmation">
+        <span asp-validation-for="PasswordConfirmation" class="text-danger"></span>
     </div>
     <div> 
-        <button type="submit" asp-controller="Student" asp-action="Create" class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Create</button>
-        <button asp-controller="Student" asp-action="Index" class="btn btn-dark btn-lg active" role="button" aria-pressed="true">Back To Student Information</button>
+        <button type="submit" asp-controller="Student" asp-action="Create" class="btn btn-dark btn-lg active " role="button" aria-pressed="true">Create </button>
+        <button asp-controller="Student" asp-action="Index" class="btn btn-dark btn-lg active " role="button" aria-pressed="true">Back To Student Information</button>
     </div>
         @*
             this is how we link the the pages according to their action methods 
