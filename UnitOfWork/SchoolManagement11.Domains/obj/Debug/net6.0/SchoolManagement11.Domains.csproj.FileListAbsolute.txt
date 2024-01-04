@@ -1,0 +1,11 @@
+F:\.net ASP WEBAPI\SchoolManagement11\SchoolManagement11.Domains\bin\Debug\net6.0\SchoolManagement11.Domains.deps.json
+F:\.net ASP WEBAPI\SchoolManagement11\SchoolManagement11.Domains\bin\Debug\net6.0\SchoolManagement11.Domains.dll
+F:\.net ASP WEBAPI\SchoolManagement11\SchoolManagement11.Domains\bin\Debug\net6.0\SchoolManagement11.Domains.pdb
+F:\.net ASP WEBAPI\SchoolManagement11\SchoolManagement11.Domains\obj\Debug\net6.0\SchoolManagement11.Domains.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net ASP WEBAPI\SchoolManagement11\SchoolManagement11.Domains\obj\Debug\net6.0\SchoolManagement11.Domains.AssemblyInfoInputs.cache
+F:\.net ASP WEBAPI\SchoolManagement11\SchoolManagement11.Domains\obj\Debug\net6.0\SchoolManagement11.Domains.AssemblyInfo.cs
+F:\.net ASP WEBAPI\SchoolManagement11\SchoolManagement11.Domains\obj\Debug\net6.0\SchoolManagement11.Domains.csproj.CoreCompileInputs.cache
+F:\.net ASP WEBAPI\SchoolManagement11\SchoolManagement11.Domains\obj\Debug\net6.0\SchoolManagement11.Domains.dll
+F:\.net ASP WEBAPI\SchoolManagement11\SchoolManagement11.Domains\obj\Debug\net6.0\refint\SchoolManagement11.Domains.dll
+F:\.net ASP WEBAPI\SchoolManagement11\SchoolManagement11.Domains\obj\Debug\net6.0\SchoolManagement11.Domains.pdb
+F:\.net ASP WEBAPI\SchoolManagement11\SchoolManagement11.Domains\obj\Debug\net6.0\ref\SchoolManagement11.Domains.dll
