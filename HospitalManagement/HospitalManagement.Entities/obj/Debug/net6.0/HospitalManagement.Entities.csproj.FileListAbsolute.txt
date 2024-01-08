@@ -1,0 +1,12 @@
+F:\.net ASP WEBAPI\HospitalManagement\HospitalManagement.Entities\bin\Debug\net6.0\HospitalManagement.Entities.deps.json
+F:\.net ASP WEBAPI\HospitalManagement\HospitalManagement.Entities\bin\Debug\net6.0\HospitalManagement.Entities.dll
+F:\.net ASP WEBAPI\HospitalManagement\HospitalManagement.Entities\bin\Debug\net6.0\HospitalManagement.Entities.pdb
+F:\.net ASP WEBAPI\HospitalManagement\HospitalManagement.Entities\obj\Debug\net6.0\HospitalManagement.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net ASP WEBAPI\HospitalManagement\HospitalManagement.Entities\obj\Debug\net6.0\HospitalManagement.Entities.AssemblyInfoInputs.cache
+F:\.net ASP WEBAPI\HospitalManagement\HospitalManagement.Entities\obj\Debug\net6.0\HospitalManagement.Entities.AssemblyInfo.cs
+F:\.net ASP WEBAPI\HospitalManagement\HospitalManagement.Entities\obj\Debug\net6.0\HospitalManagement.Entities.csproj.CoreCompileInputs.cache
+F:\.net ASP WEBAPI\HospitalManagement\HospitalManagement.Entities\obj\Debug\net6.0\HospitalManagement.Entities.dll
+F:\.net ASP WEBAPI\HospitalManagement\HospitalManagement.Entities\obj\Debug\net6.0\refint\HospitalManagement.Entities.dll
+F:\.net ASP WEBAPI\HospitalManagement\HospitalManagement.Entities\obj\Debug\net6.0\HospitalManagement.Entities.pdb
+F:\.net ASP WEBAPI\HospitalManagement\HospitalManagement.Entities\obj\Debug\net6.0\ref\HospitalManagement.Entities.dll
+F:\.net ASP WEBAPI\HospitalManagement\HospitalManagement.Entities\obj\Debug\net6.0\HospitalManagement.Entities.sourcelink.json
