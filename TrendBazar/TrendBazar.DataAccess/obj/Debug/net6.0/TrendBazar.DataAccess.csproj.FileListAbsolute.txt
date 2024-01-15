@@ -1,0 +1,17 @@
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\obj\Debug\net6.0\TrendBazar.DataAccess.csproj.AssemblyReference.cache
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\obj\Debug\net6.0\TrendBazar.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\obj\Debug\net6.0\TrendBazar.DataAccess.AssemblyInfoInputs.cache
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\obj\Debug\net6.0\TrendBazar.DataAccess.AssemblyInfo.cs
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\obj\Debug\net6.0\TrendBazar.DataAccess.csproj.CoreCompileInputs.cache
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\bin\Debug\net6.0\TrendBazar.DataAccess.deps.json
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\bin\Debug\net6.0\TrendBazar.DataAccess.runtimeconfig.json
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\bin\Debug\net6.0\TrendBazar.DataAccess.dll
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\bin\Debug\net6.0\TrendBazar.DataAccess.pdb
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\bin\Debug\net6.0\TrendBazar.Entities.dll
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\bin\Debug\net6.0\TrendBazar.Entities.pdb
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\obj\Debug\net6.0\TrendBazar.DataAccess.csproj.CopyComplete
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\obj\Debug\net6.0\TrendBazar.DataAccess.dll
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\obj\Debug\net6.0\refint\TrendBazar.DataAccess.dll
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\obj\Debug\net6.0\TrendBazar.DataAccess.pdb
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\obj\Debug\net6.0\TrendBazar.DataAccess.genruntimeconfig.cache
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.DataAccess\obj\Debug\net6.0\ref\TrendBazar.DataAccess.dll

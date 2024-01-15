@@ -1,0 +1,14 @@
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.Entities\bin\Debug\net6.0\TrendBazar.Entities.deps.json
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.Entities\bin\Debug\net6.0\TrendBazar.Entities.runtimeconfig.json
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.Entities\bin\Debug\net6.0\TrendBazar.Entities.dll
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.Entities\bin\Debug\net6.0\TrendBazar.Entities.pdb
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.Entities\obj\Debug\net6.0\TrendBazar.Entities.csproj.AssemblyReference.cache
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.Entities\obj\Debug\net6.0\TrendBazar.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.Entities\obj\Debug\net6.0\TrendBazar.Entities.AssemblyInfoInputs.cache
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.Entities\obj\Debug\net6.0\TrendBazar.Entities.AssemblyInfo.cs
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.Entities\obj\Debug\net6.0\TrendBazar.Entities.csproj.CoreCompileInputs.cache
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.Entities\obj\Debug\net6.0\TrendBazar.Entities.dll
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.Entities\obj\Debug\net6.0\refint\TrendBazar.Entities.dll
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.Entities\obj\Debug\net6.0\TrendBazar.Entities.pdb
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.Entities\obj\Debug\net6.0\TrendBazar.Entities.genruntimeconfig.cache
+F:\.net ASP WEBAPI\TrendBazar\TrendBazar.Entities\obj\Debug\net6.0\ref\TrendBazar.Entities.dll
