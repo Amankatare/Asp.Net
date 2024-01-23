@@ -1,12 +1,21 @@
 ﻿@page
+
 <div class="container">
+    <div class="vessel" text-align="center">
+        <h2>
+            <i class="fa-regular fa-message"> </i> Let's CHAT
+        </h2>
+    </div>
+    
+    <br />
+   
     <div class="row p-1">
         <div class="col-1">User</div>
         <div class="col-5"><input type="text" id="userInput" /></div>
     </div>
     <div class="row p-1">
         <div class="col-1">Message</div>
-        <div class="col-5"><input type="text" class="w-100" id="messageInput" /></div>
+        <div class="col-5"><input type="textbox" class="w-100" id="messageInput" /></div>
     </div>
     <div class="row p-1">
         <div class="col-6 text-end">
@@ -17,15 +26,20 @@
         <div class="col-6">
             <hr />
         </div>
+        <div class="vessel" text-align="center">
+            <h2>
+                <i class="fa-regular fa-message"> </i> Messages
+            </h2>
+        </div>
     </div>
     <div class="row p-1">
         <div class="col-6">
             <ul id="MessagesList"></ul>
         </div>
     </div>
+    
 </div>
 <!-- Include SignalR library -->
 <script src="/lib/js/signalr/dist/browser/signalr.js"></script>
-
-
 <script src="/js/SignalR2.js"></script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.3.0/css/all.min.css">
