@@ -1,0 +1,17 @@
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\bin\Debug\net6.0\ChatWithMe.DataAccess.deps.json
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\bin\Debug\net6.0\ChatWithMe.DataAccess.runtimeconfig.json
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\bin\Debug\net6.0\ChatWithMe.DataAccess.dll
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\bin\Debug\net6.0\ChatWithMe.DataAccess.pdb
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\obj\Debug\net6.0\ChatWithMe.DataAccess.csproj.AssemblyReference.cache
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\obj\Debug\net6.0\ChatWithMe.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\obj\Debug\net6.0\ChatWithMe.DataAccess.AssemblyInfoInputs.cache
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\obj\Debug\net6.0\ChatWithMe.DataAccess.AssemblyInfo.cs
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\obj\Debug\net6.0\ChatWithMe.DataAccess.csproj.CoreCompileInputs.cache
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\obj\Debug\net6.0\ChatWithMe.DataAccess.dll
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\obj\Debug\net6.0\refint\ChatWithMe.DataAccess.dll
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\obj\Debug\net6.0\ChatWithMe.DataAccess.pdb
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\obj\Debug\net6.0\ChatWithMe.DataAccess.genruntimeconfig.cache
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\obj\Debug\net6.0\ref\ChatWithMe.DataAccess.dll
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\bin\Debug\net6.0\ChatWithMe.Entities.dll
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\bin\Debug\net6.0\ChatWithMe.Entities.pdb
+F:\.net ASP WEBAPI\ChatWithMe\ChatWithMe.DataAccess\obj\Debug\net6.0\ChatWithMe.DataAccess.csproj.CopyComplete
