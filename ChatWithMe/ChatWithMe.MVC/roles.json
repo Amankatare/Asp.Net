@@ -1,0 +1,6 @@
+[
+  { "Name": "Admin" },
+  { "Name": "User" },
+  { "Name": "Moderator" },
+  { "Name": "Guest" }
+]

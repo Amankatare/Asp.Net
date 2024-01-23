@@ -1,0 +1,23 @@
+[
+  {
+    "UserName": "user1@example.com",
+    "RoleName": "Admin"
+  },
+  {
+    "UserName": "user2@example.com",
+    "RoleName": "User"
+  },
+  {
+    "UserName": "user3@example.com",
+    "RoleName": "Moderator"
+  },
+  {
+    "UserName": "user4@example.com",
+    "RoleName": "User"
+  },
+  {
+    "UserName": "user5@example.com",
+    "RoleName": "Guest"
+  }
+  // Add more user roles as needed
+]
