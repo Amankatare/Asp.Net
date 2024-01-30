@@ -1,0 +1,37 @@
+﻿@model WhatsappApiModel;
+
+@{
+    ViewData["Title"] = "";
+}
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Contact us</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <link href="https://fonts.googleapis.com/css?family=Quicksand&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0,minimum-scale=1.0,maximum-scale=1.0">
+</head>
+
+<body>
+    <h1 class="text-center"> Send Message Page</h1>
+
+    @using (Html.BeginForm("Create", "Home", FormMethod.Post))
+    {
+        <div class="container">
+            <div class="contact-box">
+                <div class="left"></div>
+                <div class="right">
+                    <h2>Contact Us</h2>
+                    <input asp-for="Name" class="field" placeholder="Your Name" name="Name">
+                    <input asp-for="Email" type="text" class="field" placeholder="Your Email" name="Email">
+                    <input asp-for="Phone" type="text" class="field" placeholder="Phone" name="Phone">
+                    <textarea asp-for="Message" placeholder="Message" class="field" name="Message"></textarea>
+                    <button class="btn" type="submit">Send</button>
+                </div>
+            </div>
+        </div>
+    }
+</body>
+
+</html>
